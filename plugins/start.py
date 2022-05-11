@@ -6,6 +6,7 @@ from pyrogram.types import User, Message, InlineQuery, InlineQueryResultArticle,
 
 from vars import var
 
+OWNER = "ImGishan"
 
 START_STRING =f"""
 Hi , Welcome to ◤ᴵᴬᴹǤΐรhaή ᴷʳⁱˢʰᵏᵃ◢ 『🇱🇰』's Pm Bot.
