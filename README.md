@@ -1,13 +1,4 @@
-# Anonymous-Sender-Bot
-<p align="center">
-<img src="https://te.legra.ph/file/a09d0fd535082a684b042.jpg" width="520", height="520"></p>
 
-<p align="center"><i>A Telegram Bot to Anonymize the Sender of Messages or Media.</i></p>
-<HR>
-
-* ###  You Can Find It At **[@Anonymous_SenderBot](http://t.me/dark_anonymouse_bot)**
-
-<br>
 
 # DEPLOY TO HEROKU
 * [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKEMPIRESL/Anonymous-Bot)
@@ -39,14 +30,3 @@
 -  `OWNER_ID` - Telegram User id Of OWNER.
 - `START_MESSAGE (optional)` - If want to Change The Start Message.
 <br><br>
-
-CONTRIBUTIONS AND SUGGESTIONS ARE WELCOME !!
-
-
-* ### Support
-   - [@TR TECH GUIDE](https://t.me/trtechguide)
-
-* ### Thanks to
-   - Dan for [Pyrogram](https://github.com/Pyrogram)
-* ### OWNERS
-   - [𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊](https://github.com/DARKEMPIRESL) ``Owner``
