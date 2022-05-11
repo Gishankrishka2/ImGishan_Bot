@@ -15,6 +15,8 @@ Use Help Button For More....
  By [◤ᴵᴬᴹǤΐรhaή ᴷʳⁱˢʰᵏᵃ◢ 『🇱🇰』](https://t.me/gishankrishka)
 """
 
+force_subchannel = "GishanKrishka1_Cloud"
+OWNER = "ImGishan"
 
 START_BUTTON = InlineKeyboardMarkup([[              
                  InlineKeyboardButton('◤ᴵᴬᴹǤΐรhaή ᴷʳⁱˢʰᵏᵃ◢ 『🇱🇰』', url=f"https://t.me/{OWNER}")
@@ -40,9 +42,9 @@ FORCESUB_BUTTONS = InlineKeyboardMarkup([[
                  ]]
                   )
                   
-force_subchannel = "GishanKrishka1_Cloud"
 
-OWNER = "ImGishan"
+
+
 
 START_IMG = "https://telegra.ph/file/490a71ad194e4d6ea95f0.jpg"
 
