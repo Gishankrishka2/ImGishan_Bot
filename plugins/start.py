@@ -1,6 +1,6 @@
 import os
 from pyrogram import Client, filters
-from pyrogram.errors import UserNotParticipan
+from pyrogram.errors import UserNotParticipant
 from pyrogram.errors.exceptions.bad_request_400 import PeerIdInvalid
 from pyrogram.types import User, Message, InlineQuery, InlineQueryResultArticle, InputTextMessageContent, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 
